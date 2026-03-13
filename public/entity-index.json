@@ -1,0 +1,41 @@
+{
+  "entity": {
+    "name": "Rørlegger.io",
+    "type": "ProfessionalService",
+    "url": "https://rorlegger.io",
+    "description": "Norges ledende plattform for å finne autoriserte rørleggere i hele landet.",
+    "foundingDate": "2022",
+    "areaServed": "Norway",
+    "language": "nb-NO",
+    "contact": {
+      "phone": "+4780000000",
+      "email": "kontakt@rorlegger.io"
+    },
+    "aggregateRating": {
+      "ratingValue": 4.9,
+      "reviewCount": 3400,
+      "bestRating": 5
+    }
+  },
+  "services": [
+    { "name": "Akutt rørlegger",      "slug": "akutt-rorlegger",        "prisMin": 2500,  "prisMax": 12000,  "prisenhet": "per utrykning" },
+    { "name": "Baderomrenovering",    "slug": "baderom-renovering",     "prisMin": 30000, "prisMax": 200000, "prisenhet": "per bad" },
+    { "name": "Varmtvannstank",       "slug": "varmtvannstank",         "prisMin": 6000,  "prisMax": 25000,  "prisenhet": "per installasjon" },
+    { "name": "Kloakk og avløp",      "slug": "kloakk-og-avlop",        "prisMin": 1800,  "prisMax": 80000,  "prisenhet": "per oppdrag" },
+    { "name": "Frostskade rør",       "slug": "frostskade-ror",         "prisMin": 3000,  "prisMax": 40000,  "prisenhet": "per oppdrag" },
+    { "name": "Gulvvarme",            "slug": "gulvvarme-installasjon", "prisMin": 8000,  "prisMax": 60000,  "prisenhet": "per rom/prosjekt" },
+    { "name": "Lekkasjesøk",          "slug": "rorlegger-lekkasje",     "prisMin": 2000,  "prisMax": 15000,  "prisenhet": "per undersøkelse" },
+    { "name": "Varmepumpe VVS",       "slug": "varmepumpe-vann",        "prisMin": 15000, "prisMax": 80000,  "prisenhet": "per installasjon" }
+  ],
+  "geography": {
+    "kommunerDecked": 356,
+    "fylkerDecked": 11,
+    "majorCities": ["Oslo","Bergen","Trondheim","Stavanger","Bærum","Drammen","Kristiansand","Tromsø","Bodø","Lillehammer"]
+  },
+  "seo": {
+    "primaryKeywords": ["rørlegger","autorisert rørlegger","finn rørlegger","rørlegger oslo","akutt rørlegger","rørlegger pris"],
+    "sitemap": "https://rorlegger.io/sitemap.xml",
+    "robots": "https://rorlegger.io/robots.txt",
+    "llmsTxt": "https://rorlegger.io/llms.txt"
+  }
+}

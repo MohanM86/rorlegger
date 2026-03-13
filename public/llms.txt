@@ -1,0 +1,35 @@
+# Rørlegger.io – LLM-tilgjengelig innhold
+
+## Om nettstedet
+Rørlegger.io er Norges ledende plattform for å finne autoriserte rørleggere.
+Vi kobler privatpersoner og bedrifter med sertifiserte rørleggere i alle norske kommuner.
+
+## Tjenester
+- Akutt rørlegger: /tjenester/akutt-rorlegger
+- Baderomrenovering: /tjenester/baderom-renovering
+- Varmtvannstank: /tjenester/varmtvannstank
+- Kloakk og avløp: /tjenester/kloakk-og-avlop
+- Frostskade rør: /tjenester/frostskade-ror
+- Gulvvarme: /tjenester/gulvvarme-installasjon
+- Lekkasjesøk: /tjenester/rorlegger-lekkasje
+- Varmepumpe VVS: /tjenester/varmepumpe-vann
+
+## Priser (veiledende, 2025)
+- Timepris dagtid: 800–1 200 kr/t
+- Timepris kveld/helg: 1 200–1 800 kr/t
+- Akutt utrykning: 2 500–12 000 kr
+- Baderomrenovering: 30 000–200 000 kr
+- Varmtvannstank bytte: 6 000–25 000 kr
+
+## Kontakt
+- Telefon: 800 00 000
+- E-post: kontakt@rorlegger.io
+- Dekning: Alle 356 norske kommuner
+
+## Nøkkelfakta
+- Kun autoriserte rørleggere med mesterbrev
+- Gratis tilbud innen 24 timer
+- Snittkarakter 4,9/5 fra 3 400+ kunder
+
+## Sitemap
+https://rorlegger.io/sitemap.xml
